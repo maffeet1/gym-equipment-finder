@@ -40,7 +40,7 @@ The program only returns a gym when it has all requested equipment.
 
 ## Project Structure
 
-```text
+
 gym-equipment-finder/
 ├── main.py
 ├── gyms.csv

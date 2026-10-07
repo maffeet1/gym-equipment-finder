@@ -29,6 +29,9 @@ Gyms with chest press, cable machine:
 - GYM! Dreiliņi - Ulbrokas iela 34
 ...
 
+## Screenshot
+
+![GYM Equipment Finder search example](screenshots/search-example.png)
 
 The program only returns a gym when it has all requested equipment.
 

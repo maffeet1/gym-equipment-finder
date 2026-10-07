@@ -38,13 +38,16 @@ The program only returns a gym when it has all requested equipment.
 
 
 
-		Project Structure:
+## Project Structure
 
+```text
 gym-equipment-finder/
- main.py
- gyms.csv
- equipment.csv
- README.md
+├── main.py
+├── gyms.csv
+├── equipment.csv
+├── README.md
+└── screenshots/
+    └── search-example.png
 
 main.py
 Contains the program logic and menu.
